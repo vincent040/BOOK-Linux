@@ -19,4 +19,6 @@
 * 第七章：车库计费系统（实战项目）
 * 第八章：楼宇对讲系统（实战项目）
 
-### 技术讨论群： <a href="//shang.qq.com/wpa/qunwpa?idkey=bc2c3338276a40ac72131230ad041a00c60a2fe45172ab6b9a93fea44cf0e6fa">![image](https://github.com/vincent040/lab/blob/master/resources/QQ_qun.png?raw=true)  
+### 技术支持
+* <a href="https://weidian.com/?userid=260920190">![image](https://github.com/vincent040/lab/blob/master/resources/weidian.jpg?raw=true)
+* <a href="//shang.qq.com/wpa/qunwpa?idkey=bc2c3338276a40ac72131230ad041a00c60a2fe45172ab6b9a93fea44cf0e6fa">![image](https://github.com/vincent040/lab/blob/master/resources/QQ_qun.png?raw=true) 
