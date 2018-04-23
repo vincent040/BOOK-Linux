@@ -44,7 +44,7 @@ int main(int argc, char **argv)
 		{
 			if(buf.value > 0) // 按下了触摸屏
 			{
-				printf("开始读取手指坐标...\n");
+				printf("开始.\n");
 			}
 
 			if(buf.value == 0) // 松开了触摸屏
