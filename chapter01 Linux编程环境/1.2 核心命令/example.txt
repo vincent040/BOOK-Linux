@@ -1,0 +1,3 @@
+this is a testing string. 
+$22 apple, $33 banana, strawberry $88
+$99
