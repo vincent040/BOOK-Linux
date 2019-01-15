@@ -4,9 +4,9 @@
 ![image](https://github.com/vincent040/lab/blob/master/resources/GPLE.jpg?raw=true)
 
 ### 图书信息
-* 书名：《Linux环境编程图文指南》（[点击购买](https://weidian.com/item.html?itemID=1773533784)）
-* 出版社：北京电子工业出版社
-* ISBN：978-7-121-28075-7
+* 书名：《深入浅出Linux应用编程》（[点击购买](https://weidian.com/item.html?itemID=1773533784)）
+* 出版社：人民邮电出版社社
+* ISBN：978-7-121-28075-8
 * 作者：林世霖
 
 ### 目录梗概
