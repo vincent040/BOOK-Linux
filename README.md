@@ -1,5 +1,5 @@
-# GPLE-2.0
-**《Linux环境编程图文指南（第二版）》**(**G**uide of **P**rogramming in the **L**inux **E**nvirnment)
+# SRQC-Linux
+**《深入浅出Linux应用编程》**
 
 ![image](https://github.com/vincent040/lab/blob/master/resources/GPLE.jpg?raw=true)
 
@@ -15,9 +15,7 @@
 * 第三章：Linux设备操作
 * 第四章：Linux进程线程
 * 第五章：Linux音视频
-* 第六章：Linux网络
-* 第七章：车库计费系统（实战项目）
-* 第八章：楼宇对讲系统（实战项目）
+* 第六章：实战项目
 
 ### 技术支持
 * <a href="https://weidian.com/?userid=260920190">![image](https://github.com/vincent040/lab/blob/master/resources/weidian.jpg?raw=true)
